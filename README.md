@@ -16,3 +16,11 @@ The overall aim this week is to define dominance areas [0] for 8 shopping center
 - [Problem 2: Calculate and visualize the dominance areas of shopping centers (10 points)](Exercise-4-problem-2.ipynb)
 - [Problem 3: How many people live in the dominance area of each shopping center? (optional)](Exercise-4-problem-3.ipynb)
 
+## Grading
+
+- Problem 1: 10/10 points
+- Problem 2: 10/10 points
+
+**Total: 20/20**
+
+Comments: Fantastic!
